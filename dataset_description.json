@@ -5,7 +5,7 @@
     "License": "CC0",
     "DataLicense": "PDDL",
     "Authors": [
-        "Meryem A. YÃ¼cel",
+        "Meryem A. Yücel",
         "Jessica E. Anderson",
         "De'Ja Rogers",
         "Parisa Hajirahimi",
@@ -24,7 +24,7 @@
         "Vaibhav Tripathi",
         "Yiwen Zhang",
         "Bettina Sorger",
-        "Alexander von LÃ¼hmann",
+        "Alexander von Lühmann",
         "David C. Somers",
         "Alice Cronin-Golomb",
         "Swathi Kiran",
@@ -32,6 +32,7 @@
         "David A. Boas"
     ],
     "Acknowledgements": "This research was supported by Meta Reality Labs (formerly Facebook Technologies, LLC) as part of the Engineering Approaches to Responsible Neural Interface Design Initiative (MAY). We would also like to acknowledge NIH U01EB0239856 (MAY, DB, SK, DS, ACG, TDE), NSF Research Traineeship Program (DGE-1633516) (EC), the Netherlands Organization for Scientific Research (NWiOd i-VGrant VI.Vidi.191.210) (BS), and the German Federal Ministry of Education and Research (BIFOLD24B) (AvL). We thank the NIRx team for their valuable support in guiding us on source power correction and helping us locate the relevant information in the acquired data.",
+    "HowToAcknowledge": "Yücel, M.A., Anderson, J.E., Rogers, D. et al. Quantifying the impact of hair and skin characteristics on fNIRS signal quality for enhanced inclusivity. Nat Hum Behav (2025). https://doi.org/10.1038/s41562-025-02274-7",
     "Funding": [
         "Meta Reality Labs (formerly Facebook Technologies, LLC)",
         "NIH U01EB0239856",
@@ -40,10 +41,11 @@
         "German Federal Ministry of Education and Research (BIFOLD24B)"
     ],
     "EthicsApprovals": [
-        "Boston University Charles River Campus (CRC) IRB. Functional Near-Infrared Spectroscopy of the Brain: 4502"
+        "Boston University Charles River Campus (CRC) IRB #4502"
     ],
     "ReferencesAndLinks": [
-        "https://openneuro.org/datasets/ds005928"
+        "https://www.nature.com/articles/s41562-025-02274-7",
+        "https://rdcu.be/eBFXK"
     ],
     "GeneratedBy": [
         {
